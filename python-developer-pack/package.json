@@ -1,0 +1,50 @@
+{
+  "name": "python-developer-pack",
+  "displayName": "Python Developer Pack",
+  "description": "Python Extension Pack for Developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "publisher": "caioresdev",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "python",
+    "datascience",
+    "ai"
+  ],
+  "repository": {
+    "url": "https://github.com/caioresdev/python-developer-cres"
+  },
+  "homepage": "https://github.com/caioresdev/python-developer-cres",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "charliermarsh.ruff",
+    "emeraldwalk.RunOnSave",
+    "mgesbert.python-path",
+    "KevinRose.vsc-python-indent",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "magicstack.MagicPython",
+    "oderwat.indent-rainbow",
+    "formulahendry.code-runner",
+    "almenon.arepl",
+    "wholroyd.jinja",
+    "ms-python.vscode-pylance",
+    "frhtylcn.pythonsnippets",
+    "njqdev.vscode-python-typehint",
+    "littlefoxteam.vscode-python-test-adapter",
+    "tushortz.python-extended-snippets",
+    "donjayamanne.python-environment-manager",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "hbenl.vscode-test-explorer",
+    "ms-vscode.test-adapter-converter"
+  ]
+}
